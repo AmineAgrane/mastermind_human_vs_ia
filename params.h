@@ -4,7 +4,7 @@ enum
 	NB_PIONS=4,
 
 	//Nombre d'essais autorisés pour trouver la combinaison
-	NB_ESSAIS=8  
+	NB_ESSAIS=8	  
 };
 
 // Pour déterminer le nombre de pions biens et mal placés dans la combinaison donnée en entrée.
