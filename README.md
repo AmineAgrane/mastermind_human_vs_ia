@@ -1,7 +1,7 @@
 # What is Mastermind ?
 <img src="https://github.com/AmineAgrane/mastermind_human_vs_ia/blob/main/logo.png" height="200" align="center"/>
 
-Master Mind is a board game invented by Marco Meirovitz in the 1960s. It is a game of reflection and deduction for two players. Like chess, Master Mind uses logic and memory. The principle of the game is relatively simple. Player 1 creates a combination of N pieces with C colors. Player 2 must find the secret combination. For this he has T attempts. At each test, player 1 indicates the number of well-placed and badly-placed checkers. If player 2 finds the secret combination in less than T attempts he wins the round. Then both players switch roles. 
+MasterMind is a board game invented by Marco Meirovitz in the 1960s. It is a game of reflection and deduction for two players. Like chess, Master Mind uses logic and memory. The principle of the game is relatively simple. Player 1 creates a combination of N pieces with C colors. Player 2 must find the secret combination. For this he has T attempts. At each test, player 1 indicates the number of well-placed and badly-placed checkers. If player 2 finds the secret combination in less than T attempts he wins the round. Then both players switch roles. 
 
 The goal is to find the secret combination. Each pawn of the combination is of a random color among all the possible colors. There can be several pieces of the same color. There is no time limit for reflection.
 
