@@ -8,7 +8,7 @@ ia.o: ia.c
 classic.o: classic.c 
 	gcc -c classic.c 
 
-main.o: main.c master.h
+main.o: main.c params.h
 	gcc -c main.c 
 
 clean:
